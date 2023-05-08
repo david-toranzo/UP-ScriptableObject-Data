@@ -1,9 +1,7 @@
 {
     "name": "Runtime.ScriptableObjectData",
     "rootNamespace": "",
-    "references": [
-        "GUID:7ce20abfe6855074786c5a8a03a433ad"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
